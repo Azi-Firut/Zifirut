@@ -7,7 +7,7 @@ I'm Tkachuk Oleksandr, a Ukrainian mobile developer
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tkachukoleksandr/)
 
 
-I'm working on my packages on my free-time, but I don't have as much time as I would. If one of the pakcages I created is helping you, please consider to sponsor me. By doing so, I will prioritize your issues or your pull-requests before the others.
+<!--I'm working on my packages on my free-time, but I don't have as much time as I would. If one of the pakcages I created is helping you, please consider to sponsor me. By doing so, I will prioritize your issues or your pull-requests before the others.-->
 
 ### Github Stats
 
